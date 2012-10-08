@@ -11,17 +11,17 @@ Supported model objects:
 - grids
 
 Supported drawing objects
-- parts, 
-- bolts, 
-- welds, 
-- grids, 
-- lines, 
-- rectangles, 
-- arcs, 
-- circles, 
-- polylines, 
-- polygons, 
-- dimensions, 
-- text, 
-- marks, 
-- views. 
+* parts, 
+* bolts, 
+* welds, 
+* grids, 
+* lines, 
+* rectangles, 
+* arcs, 
+* circles, 
+* polylines, 
+* polygons, 
+* dimensions, 
+* text, 
+* marks, 
+* views. 
