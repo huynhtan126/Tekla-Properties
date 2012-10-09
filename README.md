@@ -6,9 +6,24 @@ Tekla Properties is a central dialog box that lists all the properties of a sele
 ## Features
 Supported model objects: 
 
-- parts, 
-- bolts,
-- welds,
-- grids
+- Parts, 
+- Bolts,
+- Welds,
+- Grids
 
-Supported drawing objects: parts, bolts, welds, grids, lines, rectangles, arcs, circles, polylines, polygons, dimensions, text, marks, views. 
+Supported drawing objects:
+
+- Parts
+- Bolts, 
+- Welds, 
+- Grids, 
+- Lines, 
+- Rectangles, 
+- Arcs, 
+- Circles, 
+- Polylines, 
+- Polygons, 
+- Dimensions, 
+- Text, 
+- Marks, 
+- Views
