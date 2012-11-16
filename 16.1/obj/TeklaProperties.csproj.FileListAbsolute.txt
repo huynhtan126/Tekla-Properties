@@ -1,0 +1,92 @@
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.1\obj\Debug\TeklaProperties.Properties.Resources.resources
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.1\obj\Debug\TeklaProperties.csproj.GenerateResource.Cache
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\obj\Debug\TeklaProperties.Form1.resources
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\obj\Debug\TeklaProperties.Properties.Resources.resources
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\obj\Debug\TeklaProperties.csproj.GenerateResource.Cache
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\bin\Debug\TeklaProperties.exe
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\bin\Debug\TeklaProperties.pdb
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\bin\Debug\Mono.Cecil.dll
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\bin\Debug\PluginManager.dll
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\obj\Debug\TeklaProperties.exe
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\obj\Debug\TeklaProperties.pdb
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\obj\Release\TeklaProperties.Form1.resources
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\obj\Release\TeklaProperties.Properties.Resources.resources
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\TeklaProperties\16.0\obj\Release\TeklaProperties.csproj.GenerateResource.Cache
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.0\obj\Debug\TeklaProperties.exe
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.0\obj\Debug\TeklaProperties.Form1.resources
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.0\obj\Debug\TeklaProperties.Properties.Resources.resources
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.0\obj\Debug\TeklaProperties.csproj.GenerateResource.Cache
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.0\bin\Debug\TeklaProperties.exe
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.0\bin\Debug\TeklaProperties.pdb
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.0\bin\Debug\Mono.Cecil.dll
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.0\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.0\bin\Debug\PluginManager.dll
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.0\obj\Debug\TeklaProperties.pdb
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.1\obj\Debug\TeklaProperties.exe
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.1\obj\Debug\TeklaProperties.pdb
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.1\bin\Debug\TeklaProperties.exe
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.1\bin\Debug\TeklaProperties.pdb
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.1\bin\Debug\Mono.Cecil.dll
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.1\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.1\bin\Debug\PluginManager.dll
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.1\obj\Debug\TeklaProperties.Form1.resources
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.1\obj\Debug\TeklaProperties.Properties.Resources.resources
+C:\Dale\My Dropbox\Programming\git\TeklaProperties\16.1\obj\Debug\TeklaProperties.csproj.GenerateResource.Cache
+C:\Dale\My Dropbox\Programming\git\teklaproperties\16.1\bin\Debug\TeklaProperties.exe.config
+C:\Dale\My Dropbox\Programming\git\-teklaproperties\16.1\bin\Debug\TeklaProperties.exe.config
+C:\Dale\My Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\TeklaProperties.exe
+C:\Dale\My Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\TeklaProperties.pdb
+C:\Dale\My Dropbox\Programming\git\-teklaproperties\16.1\bin\Debug\TeklaProperties.exe
+C:\Dale\My Dropbox\Programming\git\-teklaproperties\16.1\bin\Debug\TeklaProperties.pdb
+C:\Dale\My Dropbox\Programming\git\-teklaproperties\16.1\bin\Debug\Mono.Cecil.dll
+C:\Dale\My Dropbox\Programming\git\-teklaproperties\16.1\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Dale\My Dropbox\Programming\git\-teklaproperties\16.1\bin\Debug\PluginManager.dll
+C:\Dale\My Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Dale\My Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\TeklaProperties.Form1.resources
+C:\Dale\My Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\TeklaProperties.Properties.Resources.resources
+C:\Dale\My Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\TeklaProperties.csproj.GenerateResource.Cache
+C:\Dale\Dropbox\Programming\git\-teklaproperties\16.1\bin\Debug\TeklaProperties.exe.config
+C:\Dale\Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\TeklaProperties.exe
+C:\Dale\Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\TeklaProperties.pdb
+C:\Dale\Dropbox\Programming\git\-teklaproperties\16.1\bin\Debug\TeklaProperties.exe
+C:\Dale\Dropbox\Programming\git\-teklaproperties\16.1\bin\Debug\TeklaProperties.pdb
+C:\Dale\Dropbox\Programming\git\-teklaproperties\16.1\bin\Debug\Mono.Cecil.dll
+C:\Dale\Dropbox\Programming\git\-teklaproperties\16.1\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Dale\Dropbox\Programming\git\-teklaproperties\16.1\bin\Debug\PluginManager.dll
+C:\Dale\Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Dale\Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\TeklaProperties.Form1.resources
+C:\Dale\Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\TeklaProperties.Properties.Resources.resources
+C:\Dale\Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\TeklaProperties.csproj.GenerateResource.Cache
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\-teklaproperties\16.1\bin\Debug\TeklaProperties.exe.config
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\TeklaProperties.exe
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\-teklaproperties\16.1\obj\Debug\TeklaProperties.pdb
+C:\Dale\Dropbox\Programming\-Tekla Macros 1\-teklaproperties\16.1\bin\Debug\TeklaProperties.exe.config
+C:\Dale\Dropbox\Programming\-Tekla Macros 1\-teklaproperties\16.1\obj\Debug\TeklaProperties.exe
+C:\Dale\Dropbox\Programming\-Tekla Macros 1\-teklaproperties\16.1\obj\Debug\TeklaProperties.pdb
+C:\Dale\Dropbox\Programming\-Tekla Macros 1\-teklaproperties\16.1\bin\Debug\TeklaProperties.exe
+C:\Dale\Dropbox\Programming\-Tekla Macros 1\-teklaproperties\16.1\bin\Debug\TeklaProperties.pdb
+C:\Dale\Dropbox\Programming\-Tekla Macros 1\-teklaproperties\16.1\bin\Debug\Mono.Cecil.dll
+C:\Dale\Dropbox\Programming\-Tekla Macros 1\-teklaproperties\16.1\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Dale\Dropbox\Programming\-Tekla Macros 1\-teklaproperties\16.1\bin\Debug\PluginManager.dll
+C:\Dale\Dropbox\Programming\-Tekla Macros 1\-teklaproperties\16.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Dale\Dropbox\Programming\-Tekla Macros 1\-teklaproperties\16.1\obj\Debug\TeklaProperties.Form1.resources
+C:\Dale\Dropbox\Programming\-Tekla Macros 1\-teklaproperties\16.1\obj\Debug\TeklaProperties.Properties.Resources.resources
+C:\Dale\Dropbox\Programming\-Tekla Macros 1\-teklaproperties\16.1\obj\Debug\TeklaProperties.csproj.GenerateResource.Cache
+C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\Programming\Projects to Sort\Tekla-Properties\16.1\bin\Debug\TeklaProperties.exe.config
+C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\Programming\Projects to Sort\Tekla-Properties\16.1\obj\Debug\TeklaProperties.exe
+C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\Programming\Projects to Sort\Tekla-Properties\16.1\obj\Debug\TeklaProperties.pdb
+C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\Programming\Projects to Sort\Tekla-Properties\16.1\bin\Debug\TeklaProperties.exe
+C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\Programming\Projects to Sort\Tekla-Properties\16.1\bin\Debug\TeklaProperties.pdb
+C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\Programming\Projects to Sort\Tekla-Properties\16.1\obj\Debug\ResolveAssemblyReference.cache
+C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\Programming\Projects to Sort\Tekla-Properties\16.1\obj\Debug\TeklaProperties.Form1.resources
+C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\Programming\Projects to Sort\Tekla-Properties\16.1\obj\Debug\TeklaProperties.Properties.Resources.resources
+C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\Programming\Projects to Sort\Tekla-Properties\16.1\obj\Debug\TeklaProperties.csproj.GenerateResource.Cache
+C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\Programming\Projects to Sort\Tekla-Properties\16.1\bin\Debug\Mono.Cecil.dll
+C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\Programming\Projects to Sort\Tekla-Properties\16.1\bin\Debug\Tekla.Structures.Plugins.dll
+C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\Programming\Projects to Sort\Tekla-Properties\16.1\bin\Debug\PluginManager.dll

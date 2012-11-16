@@ -1,0 +1,14 @@
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\bin\Debug\TeklaProperties.exe.config
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\obj\Debug\TeklaProperties.exe
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\obj\Debug\TeklaProperties.pdb
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\obj\Debug\TeklaProperties.Form1.resources
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\obj\Debug\TeklaProperties.Properties.Resources.resources
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\obj\Debug\GenerateResource.read.1.tlog
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\obj\Debug\GenerateResource.write.1.tlog
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\bin\Debug\TeklaProperties.exe
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\bin\Debug\TeklaProperties.pdb
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\bin\Debug\Tekla.Technology.Scripting.Plugins.dll
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\bin\Debug\Mono.Cecil.dll
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Properties\17.0\bin\Debug\Tekla.Structures.Plugins.xml
