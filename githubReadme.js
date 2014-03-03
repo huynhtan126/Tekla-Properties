@@ -32,6 +32,7 @@ jQuery.fn.loadReadme = function(username, repo) {
 			$(repos).each(function() 
 			{	
 				var converter = new Showdown.converter();
+				list.append("<a href='a.com'>View on Github</a>");
 				list.append(converter.makeHtml(Base64.decode(this.content)));
 			});	
 		  });
