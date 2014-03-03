@@ -32,7 +32,8 @@ jQuery.fn.loadReadme = function(username, repo) {
 			$(repos).each(function() 
 			{	
 				var converter = new Showdown.converter();
-				list.append("<a href='http://github.com/" + username + "/" + repo + "'">View on Github</a>");
+				list.append("<a href='http://github.com/" + username + "/" + repo + "'>View on Github</a> | ");
+				list.append("<a href='http://github.com/" + username + "/" + repo + "/archive/master.zip'>Download Zip</a>");
 				list.append(converter.makeHtml(Base64.decode(this.content)));
 			});	
 		  });
